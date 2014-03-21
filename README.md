@@ -3,7 +3,7 @@ vaadin7picdemo
 
 Bogaty Interfejs Użytkownika: Vaadin - Property Item Container Demo
 
-### [Vaadin Book Chapter 9. Binding Components to Data](https://vaadin.com/book/-/page/datamodel.html)
+#### [Vaadin Book Chapter 9. Binding Components to Data](https://vaadin.com/book/-/page/datamodel.html)
 
 ###### Figure 9.1. Vaadin Data Model
 
