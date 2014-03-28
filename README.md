@@ -1,7 +1,7 @@
 vaadin7picdemo
 ==============
 
-Bogaty Interfejs Użytkownika: Vaadin - Property Item Container Demo
+Bogaty Interfejs Użytkownika: Vaadin - Property Item Container Demo.
 
 Projekt zawiera zmiany dokonane w czasie wykładu względem repozytorium [KubaNeumann/vaadin7demo](https://github.com/KubaNeumann/vaadin7demo).
 
